@@ -15,7 +15,7 @@
 ```python
 class Shokhjahon:
     name       = "Shokhjahon"
-    username   = "thenovavis"
+    username   = "casripit"
     languages  = ["Python", "JavaScript", "Bash"]
     interests  = ["Automation", "Open Source", "Building cool stuff"]
     currently  = "Pushing commits at 2am like it's normal 🌙"
@@ -45,12 +45,12 @@ class Shokhjahon:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=thenovavis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenovavis&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=casripit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casripit&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thenovavis&theme=tokyonight&hide_border=true" width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=casripit&theme=tokyonight&hide_border=true" width="55%" />
 
 </div>
 
@@ -60,7 +60,7 @@ class Shokhjahon:
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=thenovavis&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=casripit&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 </div>
 
@@ -70,11 +70,11 @@ class Shokhjahon:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🗒️ [cli-todo-list](https://github.com/thenovavis/cli-todo-list-part-1) | Command-line todo app with file storage | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 💸 [expense-tracker](https://github.com/thenovavis/expense-tracker-part-1) | Personal finance tracker with CSV export | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🎯 [quiz-game](https://github.com/thenovavis/quiz-game-part-1) | Timed multiple choice quiz with leaderboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🌦️ [weather-cli](https://github.com/thenovavis/weather-cli-tool-part-1) | 3-day weather forecast in your terminal | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🔐 [password-manager](https://github.com/thenovavis/password-manager-part-1) | Encrypted local password vault | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🗒️ [cli-todo-list](https://github.com/casripit/cli-todo-list-part-1) | Command-line todo app with file storage | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 💸 [expense-tracker](https://github.com/casripit/expense-tracker-part-1) | Personal finance tracker with CSV export | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🎯 [quiz-game](https://github.com/casripit/quiz-game-part-1) | Timed multiple choice quiz with leaderboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🌦️ [weather-cli](https://github.com/casripit/weather-cli-tool-part-1) | 3-day weather forecast in your terminal | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🔐 [password-manager](https://github.com/casripit/password-manager-part-1) | Encrypted local password vault | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
@@ -82,7 +82,7 @@ class Shokhjahon:
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thenovavis&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=casripit&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -92,12 +92,12 @@ class Shokhjahon:
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-thenovavis-181717?style=for-the-badge&logo=github)](https://github.com/thenovavis)
-[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thenovavis)
+[![GitHub](https://img.shields.io/badge/GitHub-casripit-181717?style=for-the-badge&logo=github)](https://github.com/casripit)
+[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/casripit)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thenovavis&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=casripit&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
